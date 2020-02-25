@@ -1,0 +1,24 @@
+C:\Users\Hazem\source\repos\Cloud Storage service\bin\Debug\Cloud Storage service.exe.config
+C:\Users\Hazem\source\repos\Cloud Storage service\bin\Debug\Cloud Storage service.exe
+C:\Users\Hazem\source\repos\Cloud Storage service\bin\Debug\Cloud Storage service.pdb
+C:\Users\Hazem\source\repos\Cloud Storage service\obj\Debug\Cloud_Storage_service.Properties.Resources.resources
+C:\Users\Hazem\source\repos\Cloud Storage service\obj\Debug\Cloud Storage service.csproj.GenerateResource.cache
+C:\Users\Hazem\source\repos\Cloud Storage service\obj\Debug\Cloud Storage service.csproj.CoreCompileInputs.cache
+C:\Users\Hazem\source\repos\Cloud Storage service\obj\Debug\Cloud Storage service.exe
+C:\Users\Hazem\source\repos\Cloud Storage service\obj\Debug\Cloud Storage service.pdb
+C:\Users\Hazem\source\repos\Cloud Storage service\bin\Debug\JMaterialTextbox.dll
+C:\Users\Hazem\source\repos\Cloud Storage service\bin\Debug\JMetroTextBox.dll
+C:\Users\Hazem\source\repos\Cloud Storage service\bin\Debug\JTextBox2.dll
+C:\Users\Hazem\source\repos\Cloud Storage service\obj\Debug\Cloud Storage service.csproj.CopyComplete
+C:\Users\Hazem\source\repos\Cloud Storage service\bin\Debug\MaterialSkin.dll
+C:\Users\Hazem\source\repos\Cloud Storage service\bin\Debug\JTextBox.dll
+C:\Users\Hazem\source\repos\Cloud Storage service\bin\Debug\FlatButton.dll
+C:\Users\Hazem\source\repos\Cloud Storage service\bin\Debug\JThinButton.dll
+C:\Users\Hazem\source\repos\Cloud Storage service\obj\Debug\Cloud_Storage_service.login.resources
+C:\Users\Hazem\source\repos\Cloud Storage service\obj\Debug\Cloud_Storage_service.signup.resources
+C:\Users\Hazem\source\repos\Cloud Storage service\obj\Debug\Cloud_Storage_service.Main.resources
+C:\Users\Hazem\source\repos\Cloud Storage service\bin\Debug\Cloud Storage service.exe.manifest
+C:\Users\Hazem\source\repos\Cloud Storage service\bin\Debug\Cloud Storage service.application
+C:\Users\Hazem\source\repos\Cloud Storage service\obj\Debug\Cloud Storage service.csprojAssemblyReference.cache
+C:\Users\Hazem\source\repos\Cloud Storage service\obj\Debug\Cloud Storage service.exe.manifest
+C:\Users\Hazem\source\repos\Cloud Storage service\obj\Debug\Cloud Storage service.application
